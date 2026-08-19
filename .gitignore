@@ -1,3 +1,17 @@
 # nix files
 result
 
+# misc files
+snowflake.log
+prototyping/*
+!prototyping/README.md
+
+# quarto files
+index_files
+slides_files
+index.html
+slides.html
+/.luarc.json
+
+/.quarto/
+**/*.quarto_ipynb

@@ -1,0 +1,10 @@
+---
+title: "Testing termshow embed"
+format: revealjs
+resources:
+  - termshow/**
+---
+
+## Terminal Recording
+
+{{< termshow file="clean-prompt2" >}}

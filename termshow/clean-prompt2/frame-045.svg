@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 998.0 662.0" width="998.0" height="662.0" role="img" aria-label="Terminal recording frame">
+<style>.gd-tp-text{font-family:JetBrains Mono, Fira Code, SF Mono, Menlo, Consolas, monospace;font-size:14px;white-space:pre;dominant-baseline:text-before-edge}.gd-tp-bold{font-weight:700}.gd-tp-italic{font-style:italic}.gd-tp-underline{text-decoration:underline}.gd-tp-strikethrough{text-decoration:line-through}.gd-tp-dim{opacity:0.6}@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}.gd-tp-cursor{animation:blink 1s step-end infinite}</style>
+<rect width="998.0" height="662.0" fill="#1e1e2e" rx="8" ry="8"/>
+<g transform="translate(16,16.0)">
+<text x="0.0" y="0.0" class="gd-tp-text" fill="#d0d0d0">/mnt/nvme2/r_projects/rix_dsl $ cat snowflake.log</text>
+<text x="0.0" y="21.0" class="gd-tp-text" fill="#d0d0d0">{"level":"INFO","message":"[11:27:27.321 PM]: Custom credential manager is set by a user."}</text>
+<text x="0.0" y="42.0" class="gd-tp-text" fill="#d0d0d0">{"level":"INFO","message":"[11:34:06.785 PM]: Custom credential manager is set by a user."}</text>
+<text x="0.0" y="63.0" class="gd-tp-text" fill="#d0d0d0">{"level":"INFO","message":"[11:45:48.328 PM]: Custom credential manager is set by a user."}</text>
+<text x="0.0" y="84.0" class="gd-tp-text" fill="#d0d0d0">{"level":"INFO","message":"[6:40:29.726 PM]: Custom credential manager is set by a user."}</text>
+<text x="0.0" y="105.0" class="gd-tp-text" fill="#d0d0d0">{"level":"INFO","message":"[11:41:40.385 PM]: Custom credential manager is set by a user."}</text>
+<text x="0.0" y="126.0" class="gd-tp-text" fill="#d0d0d0">/mnt/nvme2/r_projects/rix_dsl $ ls</text>
+<text x="0.0" y="147.0" class="gd-tp-text" fill="#d0d0d0">build_nixconfig.R          custom-profile.termshow.yml  index.html                 </text>
+<text x="697.2" y="147.0" class="gd-tp-text gd-tp-bold" fill="#89b4fa">prototyping</text>
+<text x="789.6" y="147.0" class="gd-tp-text" fill="#d0d0d0">     snowflake.log</text>
+<text x="0.0" y="168.0" class="gd-tp-text" fill="#d0d0d0">clean-prompt.termshow      default.nix                  index.qmd                  pyproject.toml  </text>
+<text x="831.6" y="168.0" class="gd-tp-text gd-tp-bold" fill="#89b4fa">src</text>
+<text x="0.0" y="189.0" class="gd-tp-text" fill="#d0d0d0">clean-prompt.termshow.yml  </text>
+<text x="226.8" y="189.0" class="gd-tp-text gd-tp-bold" fill="#89b4fa">_extensions</text>
+<text x="319.2" y="189.0" class="gd-tp-text" fill="#d0d0d0">                  new-termshow.termshow      README.md       </text>
+<text x="831.6" y="189.0" class="gd-tp-text gd-tp-bold" fill="#89b4fa">termshow</text>
+<text x="0.0" y="210.0" class="gd-tp-text" fill="#d0d0d0">custom-profile.termshow    </text>
+<text x="226.8" y="210.0" class="gd-tp-text gd-tp-bold" fill="#89b4fa">index_files</text>
+<text x="319.2" y="210.0" class="gd-tp-text" fill="#d0d0d0">                  new-termshow.termshow.yml  </text>
+<text x="697.2" y="210.0" class="gd-tp-text gd-tp-bold" fill="#94e2d5">result</text>
+<text x="747.6" y="210.0" class="gd-tp-text" fill="#d0d0d0">          uv.lock</text>
+<rect x="0.0" y="231.0" width="8.4" height="21.0" fill="#d0d0d0" opacity="0.7" class="gd-tp-cursor"/>
+</g>
+</svg>

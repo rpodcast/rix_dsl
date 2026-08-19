@@ -1,0 +1,24 @@
+source: clean-prompt2.termshow
+
+settings:
+  # window_chrome: colorful
+  # theme: monokai
+  # font_size: 14
+
+# chapters:
+#   - at: 0.0
+#     label: Start
+#   - at: 5.0
+#     label: Next Step
+
+# annotations:
+#   - at: 1.0
+#     duration: 3.0
+#     text: Explain what's happening here
+#     position: top-right
+#     style: callout
+
+# cuts:
+#   - from: 8.0
+#     to: 11.0
+#     type: ellipsis

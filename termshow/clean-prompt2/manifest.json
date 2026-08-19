@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "title": "clean-prompt2",
+  "duration": 27.61,
+  "term": {
+    "cols": 115,
+    "rows": 30
+  },
+  "theme": "default",
+  "chapters": [],
+  "keyframes": [
+    {
+      "time": 0.0,
+      "file": "frame-000.svg"
+    },
+    {
+      "time": 0.117,
+      "file": "frame-001.svg"
+    },
+    {
+      "time": 1.675,
+      "file": "frame-002.svg"
+    },
+    {
+      "time": 1.857,
+      "file": "frame-003.svg"
+    },
+    {
+      "time": 1.956,
+      "file": "frame-004.svg"
+    },
+    {
+      "time": 2.0,
+      "file": "frame-005.svg"
+    },
+    {
+      "time": 2.13,
+      "file": "frame-006.svg"
+    },
+    {
+      "time": 2.437,
+      "file": "frame-007.svg"
+    },
+    {
+      "time": 2.665,
+      "file": "frame-008.svg"
+    },
+    {
+      "time": 3.195,
+      "file": "frame-009.svg"
+    },
+    {
+      "time": 3.375,
+      "file": "frame-010.svg"
+    },
+    {
+      "time": 3.695,
+      "file": "frame-011.svg"
+    },
+    {
+      "time": 3.841,
+      "file": "frame-012.svg"
+    },
+    {
+      "time": 3.985,
+      "file": "frame-013.svg"
+    },
+    {
+      "time": 4.0,
+      "file": "frame-014.svg"
+    },
+    {
+      "time": 4.213,
+      "file": "frame-015.svg"
+    },
+    {
+      "time": 4.381,
+      "file": "frame-016.svg"
+    },
+    {
+      "time": 4.87,
+      "file": "frame-017.svg"
+    },
+    {
+      "time": 5.075,
+      "file": "frame-018.svg"
+    },
+    {
+      "time": 5.402,
+      "file": "frame-019.svg"
+    },
+    {
+      "time": 5.594,
+      "file": "frame-020.svg"
+    },
+    {
+      "time": 5.75,
+      "file": "frame-021.svg"
+    },
+    {
+      "time": 5.999,
+      "file": "frame-022.svg"
+    },
+    {
+      "time": 6.0,
+      "file": "frame-023.svg"
+    },
+    {
+      "time": 6.005,
+      "file": "frame-024.svg"
+    },
+    {
+      "time": 8.0,
+      "file": "frame-025.svg"
+    },
+    {
+      "time": 8.625,
+      "file": "frame-026.svg"
+    },
+    {
+      "time": 10.0,
+      "file": "frame-027.svg"
+    },
+    {
+      "time": 12.0,
+      "file": "frame-028.svg"
+    },
+    {
+      "time": 12.71,
+      "file": "frame-029.svg"
+    },
+    {
+      "time": 12.933,
+      "file": "frame-030.svg"
+    },
+    {
+      "time": 13.039,
+      "file": "frame-031.svg"
+    },
+    {
+      "time": 13.146,
+      "file": "frame-032.svg"
+    },
+    {
+      "time": 13.255,
+      "file": "frame-033.svg"
+    },
+    {
+      "time": 13.413,
+      "file": "frame-034.svg"
+    },
+    {
+      "time": 13.527,
+      "file": "frame-035.svg"
+    },
+    {
+      "time": 14.0,
+      "file": "frame-036.svg"
+    },
+    {
+      "time": 14.111,
+      "file": "frame-037.svg"
+    },
+    {
+      "time": 14.122,
+      "file": "frame-038.svg"
+    },
+    {
+      "time": 14.123,
+      "file": "frame-039.svg"
+    },
+    {
+      "time": 16.0,
+      "file": "frame-040.svg"
+    },
+    {
+      "time": 18.0,
+      "file": "frame-041.svg"
+    },
+    {
+      "time": 19.415,
+      "file": "frame-042.svg"
+    },
+    {
+      "time": 19.515,
+      "file": "frame-043.svg"
+    },
+    {
+      "time": 19.697,
+      "file": "frame-044.svg"
+    },
+    {
+      "time": 19.705,
+      "file": "frame-045.svg"
+    },
+    {
+      "time": 19.706,
+      "file": "frame-046.svg"
+    },
+    {
+      "time": 20.0,
+      "file": "frame-047.svg"
+    },
+    {
+      "time": 22.0,
+      "file": "frame-048.svg"
+    },
+    {
+      "time": 24.0,
+      "file": "frame-049.svg"
+    },
+    {
+      "time": 26.0,
+      "file": "frame-050.svg"
+    },
+    {
+      "time": 27.608,
+      "file": "frame-051.svg"
+    }
+  ],
+  "deltas": [],
+  "annotations": [],
+  "highlights": [],
+  "snippets": []
+}

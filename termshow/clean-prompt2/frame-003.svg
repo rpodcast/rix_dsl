@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 998.0 662.0" width="998.0" height="662.0" role="img" aria-label="Terminal recording frame">
+<style>.gd-tp-text{font-family:JetBrains Mono, Fira Code, SF Mono, Menlo, Consolas, monospace;font-size:14px;white-space:pre;dominant-baseline:text-before-edge}.gd-tp-bold{font-weight:700}.gd-tp-italic{font-style:italic}.gd-tp-underline{text-decoration:underline}.gd-tp-strikethrough{text-decoration:line-through}.gd-tp-dim{opacity:0.6}@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}.gd-tp-cursor{animation:blink 1s step-end infinite}</style>
+<rect width="998.0" height="662.0" fill="#1e1e2e" rx="8" ry="8"/>
+<g transform="translate(16,16.0)">
+<text x="0.0" y="21.0" class="gd-tp-text gd-tp-bold" fill="#94e2d5">rix_dsl</text>
+<text x="58.8" y="21.0" class="gd-tp-text" fill="#d0d0d0"> on </text>
+<text x="92.4" y="21.0" class="gd-tp-text gd-tp-bold" fill="#cba6f7"> main</text>
+<text x="142.8" y="21.0" class="gd-tp-text" fill="#d0d0d0"> </text>
+<text x="151.2" y="21.0" class="gd-tp-text gd-tp-bold" fill="#f38ba8">[!?]</text>
+<text x="184.8" y="21.0" class="gd-tp-text" fill="#d0d0d0"> is </text>
+<text x="218.4" y="21.0" class="gd-tp-text gd-tp-bold" fill="#ff6600">📦 v0.1.0</text>
+<text x="285.6" y="21.0" class="gd-tp-text" fill="#d0d0d0"> via </text>
+<text x="327.6" y="21.0" class="gd-tp-text gd-tp-bold" fill="#f9e2af">🐍 v3.13.5 (rix-dsl) </text>
+<text x="495.6" y="21.0" class="gd-tp-text" fill="#d0d0d0">via </text>
+<text x="529.2" y="21.0" class="gd-tp-text gd-tp-bold" fill="#75aadb">⨁ v1.9.37 </text>
+<text x="613.2" y="21.0" class="gd-tp-text" fill="#d0d0d0">via </text>
+<text x="646.8" y="21.0" class="gd-tp-text gd-tp-bold" fill="#89b4fa">📐 v4.6.1 </text>
+<text x="722.4" y="21.0" class="gd-tp-text" fill="#d0d0d0">via </text>
+<text x="756.0" y="21.0" class="gd-tp-text gd-tp-bold" fill="#89b4fa">❄️  impure (nix-shell)</text>
+<text x="0.0" y="42.0" class="gd-tp-text gd-tp-bold" fill="#a6e3a1">❯</text>
+<text x="8.4" y="42.0" class="gd-tp-text" fill="#d0d0d0"> pr</text>
+<rect x="33.6" y="42.0" width="8.4" height="21.0" fill="#d0d0d0" opacity="0.7" class="gd-tp-cursor"/>
+</g>
+</svg>
